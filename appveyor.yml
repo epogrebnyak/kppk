@@ -3,6 +3,7 @@
 install:
   - set PATH=C:\Ruby23\bin;%PATH%
   - bundle install
+  - gem install jekyll
 
 build: off
 
@@ -10,6 +11,7 @@ before_test:
   - ruby -v
   - gem -v
   - bundle -v
+  - jekyll --version
 
 test_script:
   - bundle jekyll build
