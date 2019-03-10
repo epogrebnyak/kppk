@@ -14,8 +14,7 @@ before_test:
   # more infor
   - jekyll --version
   - gem env
-  - bundle info jekyll --path  
- 
+  - bundle info jekyll --path   
 
 test_script:
   - bundle exec jekyll build
