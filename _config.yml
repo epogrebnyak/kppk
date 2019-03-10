@@ -1,27 +1,12 @@
-#title: Minimal theme
-#logo: /assets/img/logo.png
-#description: Minimal is a theme for GitHub Pages.
-#show_downloads: true
-#google_analytics:
-#theme: jekyll-theme-minimal
-
-exclude:
-  - node_modules
-  - script
-
-sass:
-  style: :compressed
-
-theme: jekyll-theme-primer
-
-github:
-  private: false
-  license:
-    name: MIT
-  source:
-    branch: "master"
-    path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
-  
-title: Jekyll Theme Primer
-description: Primer is a Jekyll theme for GitHub Pages
+encoding: utf-8
+source: "source"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#logo: "/assets/img/logo.png" 
+title: "Российский экспорт + КППК"
+# email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Комплексные программы повышения конкурентоспособности:  
+  предприятия получат возможность поддержки из федерального бюджета 
+  и возьмут на себя обязательства по увеличению экспорта своей продукции.
+show_downloads: false
+theme: jekyll-theme-minimal
