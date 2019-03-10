@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/epogrebnyak/kppk.svg?branch=master)](https://travis-ci.com/epogrebnyak/kppk)
-![](https://ci.appveyor.com/api/projects/status/github/epogrebnyak/kppk)
+[![](https://ci.appveyor.com/api/projects/status/github/epogrebnyak/kppk)](https://ci.appveyor.com/project/epogrebnyak/kppk)
 
 # Страничка <кппк.рф>
 
