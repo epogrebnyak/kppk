@@ -1,4 +1,4 @@
-encoding: utf-8
+#encoding: utf-8
 source: "source"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #logo: "/assets/img/logo.png" 
@@ -9,4 +9,5 @@ description: >- # this means to ignore newlines until "baseurl:"
   предприятия получат возможность поддержки из федерального бюджета 
   и возьмут на себя обязательства по увеличению экспорта своей продукции.
 show_downloads: false
-theme: jekyll-theme-minimal
+#theme: minima
+#theme: jekyll-theme-minimal
